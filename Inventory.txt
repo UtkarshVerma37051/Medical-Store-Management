@@ -1,0 +1,10 @@
+Betadine
+101
+60
+10
+20
+Paracetamol
+102
+300
+20
+30
