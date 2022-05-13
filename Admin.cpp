@@ -1,13 +1,13 @@
 #include<iostream>
 #include<fstream>
 #include<conio.h>
-#include"./Header Files/Password.h"
-#include"./Header Files/New_Inventory.h"
-#include"./Header Files/Purchased_Data.h"
-#include"./Header Files/Customer.h"
-#include"./Header Files/Validate_Input.h"
-#include"./Header Files/Supplier.h"
-#include"./Header Files/Admin.h"
+#include"Password.h"
+#include"New_Inventory.h"
+#include"Purchased_Data.h"
+#include"Customer.h"
+#include"Validate_Input.h"
+#include"Supplier.h"
+#include"Admin.h"
 using namespace std;
 //class Admin //: public Inventory
 //{

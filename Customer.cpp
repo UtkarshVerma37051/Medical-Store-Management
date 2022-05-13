@@ -4,8 +4,8 @@
 #include<cstring>
 #include<iomanip>
 #include<conio.h>
-#include"./Header Files/New_Inventory.h"
-#include"./Header Files/Validate_Input.h"
+#include"New_Inventory.h"
+#include"Validate_Input.h"
 using namespace std;
 struct customer
 {
