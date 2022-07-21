@@ -1,6 +1,6 @@
 #include<iostream>
 #include<fstream>
-#include<conio.h>
+//#include<conio.h>
 #include"Password.h"
 #include"New_Inventory.h"
 #include"Purchased_Data.h"
