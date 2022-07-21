@@ -3,9 +3,9 @@
 #include<fstream>
 #include<conio.h>
 #include<vector>
-#include"./Header Files/Validate_Input.h"
-#include"./Header Files/New_Inventory.h"
-#include"./Header Files/Supplier.h"
+#include"Validate_Input.h"
+#include"New_Inventory.h"
+#include"Supplier.h"
 using namespace std;
 //struct Inventory_Struct
 //{

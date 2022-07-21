@@ -3,8 +3,8 @@
 #include<string>
 #include<iomanip>
 #include<conio.h>
-#include"./Header Files/Supplier.h"
-#include"./Header Files/Validate_Input.h"
+#include"Supplier.h"
+#include"Validate_Input.h"
 
 using namespace std;
 void Supplier_List::add_supplier(struct supplier& sup)

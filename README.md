@@ -36,10 +36,12 @@ There is a makefile present in the root of repository which can be used to build
 `make run`     : runs the exe (if already built).
 </details>
 
-##### Pending tasks
-- [ ] Add the suppport of CMake for the project.
+## Build and run using CMake
 
+There is a CMakelists.txt added to the root of the repository which can be used to build the project using CMake.
+
+> `make build_with_cmake` can also be used to build the project using CMake.
 ---
-###Support
+### Support
 
 :e-mail: : utkarsh.verma.37051@gmail.com
