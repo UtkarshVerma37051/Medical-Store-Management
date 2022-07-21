@@ -1,3 +1,5 @@
+[![CMake](https://github.com/UtkarshVerma37051/Medical-Store-Management/actions/workflows/cmake.yml/badge.svg?branch=feature%2Fautomate-build)](https://github.com/UtkarshVerma37051/Medical-Store-Management/actions/workflows/cmake.yml)
+
 # Medical-Store-Management
 
 ## Introduction :
