@@ -26,7 +26,7 @@ run:
 
 build_with_cmake :
 	rm -rf build/*
-	cmake -S . -B build -G "MinGW Makefiles"
+	cmake -S . -B build
 	cmake --build build -j 10 --target install
 
 define comp
