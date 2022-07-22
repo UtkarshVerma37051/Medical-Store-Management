@@ -29,6 +29,7 @@ set(headers
     ${CMAKE_CURRENT_SOURCE_DIR}/include/Supplier.h)
 
 add_executable(medical ${sources} ${headers})
+target_include_directories(medical PUBLIC include)
 include(GNUInstallDirs)
 install(TARGETS medical
         RUNTIME DESTINATION ${CMAKE_BUILD_TYPE}/bin)

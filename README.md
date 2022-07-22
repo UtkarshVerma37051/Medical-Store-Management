@@ -1,3 +1,5 @@
+[![CMake](https://github.com/UtkarshVerma37051/Medical-Store-Management/actions/workflows/cmake.yml/badge.svg?branch=feature%2Fautomate-build)](https://github.com/UtkarshVerma37051/Medical-Store-Management/actions/workflows/cmake.yml) [![Makefile CI](https://github.com/UtkarshVerma37051/Medical-Store-Management/actions/workflows/makefile.yml/badge.svg)](https://github.com/UtkarshVerma37051/Medical-Store-Management/actions/workflows/makefile.yml) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/utkarshverma37051/Medical-store-management?color=light-green) ![GitHub last commit](https://img.shields.io/github/last-commit/utkarshverma37051/Medical-Store-management)
+
 # Medical-Store-Management
 
 ## Introduction :
